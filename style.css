@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 50px solid rgb(0, 255, 221);
+  margin-top:60px;
+  margin-left: 550px;
+}
